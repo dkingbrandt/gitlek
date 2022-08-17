@@ -4,7 +4,7 @@
 userstory 001 
 -----------------------------------
 ``` javascript
-while(counter <= 6){
+while(counter <= 5){
     console.log("hej klassen");
     console.log(counter);
     
@@ -24,9 +24,9 @@ userstory 002
 
 public angerclass Main {
   public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
 }
+
+q
 ```
 --------------------------------------
 
@@ -116,3 +116,12 @@ userstory 010
 
 -------------------------------
 
+userstory 011
+------------------------------
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+-------------------------------
