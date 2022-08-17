@@ -22,7 +22,7 @@ userstory 002
 -----------------------------------
 ```java
 
-public class Main {
+public angerclass Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
   }
