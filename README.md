@@ -4,7 +4,7 @@
 userstory 001 
 -----------------------------------
 ``` javascript
-while(counter <= 5){
+while(counter <= 6){
     console.log("hej klassen");
     console.log(counter);
     
