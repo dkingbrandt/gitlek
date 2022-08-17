@@ -1,7 +1,9 @@
 
 
 # gitlek
-```
+userstory 001 
+-----------------------------------
+``` javascript
 while(counter <= 5){
     console.log("hej klassen");
     console.log(counter);
@@ -12,6 +14,6 @@ while(counter <= 5){
 
 }
 ```
-
+-----------------------------------
 
 
