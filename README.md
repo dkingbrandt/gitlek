@@ -70,6 +70,11 @@ userstory 005
 
 -------------------------------------
 
+userstory 006
+-----------------------------------------
 
--
-
+|zoo animals |    name    |
+|------------| ---------- |
+| gorilla    |  kingkong  |
+| zebra      | mr stripes |
+| zebra      |
